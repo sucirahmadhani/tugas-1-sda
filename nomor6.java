@@ -28,10 +28,6 @@ public class nomor6 {
         System.out.println("Element setelah menambahkan string h " + nama);
     
         nama.add(-3,"j");
-        System.out.println("Element setelah menambahkan string j " + nama);
-    
-       
-    
-                
+        System.out.println("Element setelah menambahkan string j " + nama);          
         }
 }
